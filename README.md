@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ResumeAI – AI-Powered Resume Screener
 
 Screen multiple resumes against a job description using Claude AI. Get instant scores, skill analysis, and candidate rankings.
@@ -60,3 +61,6 @@ Frontend runs at http://localhost:3000 — open this in your browser.
 - **AI**: Claude Sonnet (claude-sonnet-4-6)
 - **Resume parsing**: pdfplumber (PDF) · python-docx (Word)
 - **Frontend**: React 18 · Vite · Tailwind CSS
+=======
+# Resume_screener
+>>>>>>> 747ca617bc9c72a81eda7f18225339a99a65ecf7
