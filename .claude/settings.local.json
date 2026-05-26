@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npm list *)",
+      "Bash(npm run *)",
+      "Bash(Get-ChildItem -Recurse -Path \"C:\\\\Users\\\\Lenovo\\\\resume-screener\" -Directory)",
+      "Bash(Select-Object -ExpandProperty FullName)",
+      "Bash(Sort-Object)",
+      "Bash(pip install *)",
+      "Bash(python -c \"import main; print\\('Backend imports OK'\\)\")",
+      "Bash(python -c ' *)",
+      "Bash(Get-ChildItem *)",
+      "Bash(Select-Object -First 30)",
+      "Bash(py -c \"import main; print\\('Backend imports OK'\\)\")",
+      "Bash(py -c ' *)",
+      "Bash(py -c \"import main; print\\('OK'\\)\")",
+      "Bash(Select-Object FullName)"
+    ]
+  }
+}
